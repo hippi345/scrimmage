@@ -22,11 +22,11 @@
  *
  */
 
+#include <gtest/gtest.h>
+
 #include <memory>
 #include <unordered_set>
 #include <vector>
-
-#include <gtest/gtest.h>
 
 #include "scrimmage/common/ID.h"
 #include "scrimmage/common/Random.h"
